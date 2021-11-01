@@ -122,7 +122,7 @@ passwordText.value = passwordValue
 
 }
 
-generateBtn.addEventListener("click", generatePassword());
+generateBtn.addEventListener("click", generatePassword);
 
 
 
