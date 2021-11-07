@@ -1,7 +1,5 @@
 # Password generator
 Password generator built with JS.
-# Building a Password Generator
-
 ## About
 
 The task at hand was to build the logic to a password generator, including prompts for character length and which characters to include such as upper or lower case for example
